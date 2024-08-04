@@ -27,9 +27,9 @@ LibraGraphAI is a cutting-edge library management system that leverages knowledg
 
 ## Contributors
 
-- [](https://github.com/JatinMGulati)
+- [Jatin M Gulati](https://github.com/JatinMGulati)
 - [Vidhvath J Poojari](https://github.com/vidhvath28)
-- [](https://github.com/PRABHAS-VARMA)
-- [](https://github.com/pawanomprakash)
+- [Prabhas Varma](https://github.com/PRABHAS-VARMA)
+- [Pawan ](https://github.com/pawanomprakash)
 
 
