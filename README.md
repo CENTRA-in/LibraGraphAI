@@ -25,3 +25,8 @@ LibraGraphAI is a cutting-edge library management system that leverages knowledg
 - Node.js
 - Neo4j
 
+## Contributors
+
+- [Vidhvath J Poojari](https://github.com/vidhvath28)
+
+
